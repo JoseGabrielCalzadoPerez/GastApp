@@ -12,3 +12,5 @@ Aplicación de escritorio para control de gastos personales.
 pip install pytest
 pytest test_gastapp.py -v
 ```
+- HU-01: Registro de gastos completado
+- HU-02: Visualización de resúmenes en progreso
